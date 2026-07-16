@@ -50,3 +50,13 @@ These actions require human validation because they create external consequences
 2. A local coach has an outdated one-page website and wants more discovery calls. Review the current positioning, draft a revised landing page structure, prepare SEO basics, and write a follow-up email asking for missing details.
 
 3. A small restaurant wants a simple website for menus, opening hours, private event requests, and local search visibility. Prepare the client brief, recommended sitemap, lead capture approach, fictional maintenance offer, and delivery checklist.
+
+## Day 3 - Skills and Business Agents
+
+Day 3 adds reusable skills for product briefs, SEO research, sales copy, admin sandboxing, learning coaching, and prospecting. It also adds scoped business agent cards, a local agent simulation document, test traces, and an agent-skill-tool matrix.
+
+Reusable skills matter because they keep agent behavior consistent across tasks instead of hiding business rules inside one-off prompts. They make guardrails, expected inputs, and expected outputs easier to audit.
+
+Agents remain simulated for now because no real visual platform is configured in the repository. This is the right constraint: fake exports, fake screenshots, or fake API traces would reduce trust in the system.
+
+The next improvement should be one narrow end-to-end workflow: intake a single prospect request, produce a product brief, draft a reply, create a fictional quote, and record the approval gates.
