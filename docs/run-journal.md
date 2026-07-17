@@ -60,3 +60,13 @@ Reusable skills matter because they keep agent behavior consistent across tasks 
 Agents remain simulated for now because no real visual platform is configured in the repository. This is the right constraint: fake exports, fake screenshots, or fake API traces would reduce trust in the system.
 
 The next improvement should be one narrow end-to-end workflow: intake a single prospect request, produce a product brief, draft a reply, create a fictional quote, and record the approval gates.
+
+## Day 3 - Founder OS v1 Orchestrator
+
+Day 3 adds the first Founder OS v1 Orchestrator documentation, routing rules, orchestration setup notes, and a complete simulated run trace for a prospect requesting a showcase website.
+
+Routing matters because Web Studio OS requests usually mix product scope, SEO expectations, sales communication, and commercial risk. A clear orchestrator prevents one agent from treating assumptions as facts or skipping approval gates.
+
+The workflow remains simulated and manual. Agent calls, handoffs, approvals, intermediate outputs, and final synthesis are documented in Markdown only. No real workflow engine, no visual platform, no paid API, no external automation, and no email sending were used.
+
+The next improvement should be a narrow real orchestration after this manual version is reviewed, preferably a small local script or a minimal workflow that produces structured Markdown traces while still requiring human approval for emails, quotes, paid tools, and permanent memory writes.
