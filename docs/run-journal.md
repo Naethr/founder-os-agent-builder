@@ -70,3 +70,13 @@ Routing matters because Web Studio OS requests usually mix product scope, SEO ex
 The workflow remains simulated and manual. Agent calls, handoffs, approvals, intermediate outputs, and final synthesis are documented in Markdown only. No real workflow engine, no visual platform, no paid API, no external automation, and no email sending were used.
 
 The next improvement should be a narrow real orchestration after this manual version is reviewed, preferably a small local script or a minimal workflow that produces structured Markdown traces while still requiring human approval for emails, quotes, paid tools, and permanent memory writes.
+
+## Day 4 - Founder OS Eval Pack
+
+Day 4 adds a Founder OS evaluation pack: a 12-case dataset, a 0-2 scoring rubric, six manual evaluation traces, and a consolidated evaluation report. The cases cover SEO, prospecting, mail / sales, admin / accounting, code / product, coach / learning, orchestration, and security.
+
+Evaluation matters because the current system is documentation-first. Without repeatable cases and honest traces, it would be easy to mistake good prompts and agent cards for reliable behavior.
+
+The main defects are likely to be: structured outputs are not enforced by a runtime schema, memory usage is still manual and may miss relevant notes, and approval handling is documented but not technically enforced.
+
+The next improvement should be a small local validation layer for traces, stricter structured output templates, and a dedicated sensitive-action review format before adding any external tools or automation.
